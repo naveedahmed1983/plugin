@@ -8,10 +8,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>UN Pakistan Contacts</name>
+    <name>Phonegap Plugin examples</name>
 
     <description>
-       This application presents a fast way to lookup contacts of UN staff members of Pakistan. This application has been exclusively made for the UN Pakistan and it needs to be only used a UN employee. If the information provided is incorrect, please contact the app administrator at the below given email for modifying and updating the incorrect information.
+      This app tries to explore phonegap plugins.
     </description>
 
     <author href="https://www.nu.edu.pk" email="naveed@nu.edu.pk">
