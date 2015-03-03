@@ -18,9 +18,9 @@
         Naveed Ahmed
     </author>
 	
-	<icon src="Appicon.png" />
+	<preference name="phonegap-version"       value="3.6.3" />
 	
-	<gap:splash src="Splash.png" />
+	
 
 	<gap:plugin name="org.apache.cordova.camera"/>
 	
