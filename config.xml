@@ -23,6 +23,6 @@
 	<gap:splash src="Splash.png" />
 
 	<gap:plugin name="org.apache.cordova.camera"/>
-	<gap:plugin name="nl.x-services.plugins.socialsharing" />
+	
 
 </widget>
